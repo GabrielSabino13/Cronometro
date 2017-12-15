@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+
+<body>
+  <center>
+    <h2>Convertidor de Euro a dollar y de dollar a Euro</h2>
+    <p>Un Euro en Dollar es: 1.189307</p>
+    <p>Un Dollar en Euro es: 0.841164</p>
+    <input type="text" id="dollar">
+    <input type="button" value="Convertir de Euro a dollar" onclick="convertir_a_dollares(document.getElementById('dollar').value)">
+    <br>
+    <input type="text" id="euros">
+    <input type="button" value="Convertir de dollar a Euro" onclick="convertir_a_euros(document.getElementById('euros').value)">
+    <br>
+    <div id="total">
+    </div>
+  </center>
+
+  <script src="js/codigo.js"></script>
+</body>
+
+</html>
