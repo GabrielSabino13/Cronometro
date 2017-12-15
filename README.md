@@ -1,1 +1,5 @@
-# Cronometro
+# Cronometro Saludos profesor aqui le dejamos el proyecto CRONOMETRO del grupo cronometro, compuesto  por Gabriel Sabino Matricula 13-MIST-1-079 Y Humberto Ramos Matricula 14-SISM-1-083 SECCION 0908.
+EL PROYECTO CONSTA DE TRES PROGRAMAS:
+UNA CALCULADORA CON TODAS SUS FUNCIONES 
+UN CRONOMETRO QUE CUENTA HASTA EL NUMERO QUE SE LE ASIGNE 
+UN CONVERTIDOR DE DOLAR A EURO Y EURO A DOLAR...
